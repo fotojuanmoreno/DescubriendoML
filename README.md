@@ -5,8 +5,8 @@ Es mi intención ir comentando todo el proceso, no solo para aprender yo, si no 
 
 Los primeros ejercicios parten de cursos, tutorialies o videos de Yesi Days o Alejandro Piug.
 
-1.- pandas
+1.- pandas</br>
 Sobre la librería pandas y como visualizar datos con matplotlib. (Origen: Yesi Days)
 
-2.- arbol-car
+2.- arbol-car</br>
 Continuación de el ejercicio anterior.
