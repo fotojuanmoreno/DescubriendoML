@@ -10,3 +10,6 @@ Sobre la librería pandas y como visualizar datos con matplotlib. (Origen: Yesi 
 
 2.- arbol-car</br>
 Continuación de el ejercicio anterior.
+
+3.- regresion_lineal_1</br>
+Introducción al uso de algunos elementos de la libreria sklearn. Algoritmos de regresión KNN, LinearRegression y Ridge (Origen: Alejandro Puig[AMP Tech])
