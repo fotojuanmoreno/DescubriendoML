@@ -13,3 +13,6 @@ Continuación de el ejercicio anterior.
 
 3.- regresion_lineal_1</br>
 Introducción al uso de algunos elementos de la libreria sklearn. Algoritmos de regresión KNN, LinearRegression y Ridge (Origen: Alejandro Puig [AMP Tech])
+
+4.- arbol_decisiones_1</br>
+utilizando sklearn y herramientas de matplot o graphviz podremos crear un sistema de organización en arbol de decisiones y generar visualmente su representación. Ademas podremos ver algunos ajustes y descubrir lo que es el sobreajuste. (Origen: Alejandro Puig [AMP Tech])
