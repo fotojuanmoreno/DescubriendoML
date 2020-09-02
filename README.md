@@ -19,3 +19,6 @@ utilizando sklearn y herramientas de matplot o graphviz podremos crear un sistem
 
 5.- Estimadores_de_incertidumbre</br>
 utilizando sklearn y svm podemos conocer la seguridad con la que el algoritmo clasifica los datos datos. (Origen: Alejandro Puig [AMP Tech])
+
+6.- Vectorización1</br>
+El principal proposito de este ejercicio es entender como realizar la "vertorización" de la palabras que contiene nuestra db. Es decir, pasarlas de elementos en una frase o archivo, a un sistema numérico entendible por el algoritmo. (Origen: Alejandro Puig [AMP Tech])
