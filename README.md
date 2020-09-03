@@ -28,3 +28,6 @@ Primer ejercicio con aprendizaje no supervisado y el algoritmo KMenas de sklearn
 
 8.- guardar_modelo_1</br>
 Guardar y exportar un modelo es imprescindible, no queremos tener que entrenar al mismo modelo cada vez que lo queramos usar. (Origen: Alejandro Puig [AMP Tech])
+
+9.- importar_modelo_1</br>
+Continuación del ejercicio anterior. en este caso utilizaremos la librería joblib para importar un modelo ya entrenado. (Origen: Alejandro Puig [AMP Tech])
