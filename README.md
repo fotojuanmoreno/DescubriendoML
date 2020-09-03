@@ -22,3 +22,6 @@ utilizando sklearn y svm podemos conocer la seguridad con la que el algoritmo cl
 
 6.- Vectorización1</br>
 El principal proposito de este ejercicio es entender como realizar la "vertorización" de la palabras que contiene nuestra db. Es decir, pasarlas de elementos en una frase o archivo, a un sistema numérico entendible por el algoritmo. (Origen: Alejandro Puig [AMP Tech])
+
+7.- Aprendizaje_no_supervisado_1</br>
+Primer ejercicio con aprendizaje no supervisado y el algoritmo KMenas de sklearn. (Origen: Alejandro Puig [AMP Tech])
