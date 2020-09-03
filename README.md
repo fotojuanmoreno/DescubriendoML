@@ -25,3 +25,6 @@ El principal proposito de este ejercicio es entender como realizar la "vertoriza
 
 7.- Aprendizaje_no_supervisado_1</br>
 Primer ejercicio con aprendizaje no supervisado y el algoritmo KMenas de sklearn. (Origen: Alejandro Puig [AMP Tech])
+
+8.- guardar_modelo_1</br>
+Guardar y exportar un modelo es imprescindible, no queremos tener que entrenar al mismo modelo cada vez que lo queramos usar. (Origen: Alejandro Puig [AMP Tech])
